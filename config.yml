@@ -1,0 +1,7 @@
+channels:
+- CHANNEL_NAME
+response_delay: 1.0
+spam_patterns:
+- casino
+word_responses:
+  java: 'coder2Nojava'

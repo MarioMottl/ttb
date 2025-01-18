@@ -1,2 +1,0 @@
-# ttb
-temporary twitch bot
